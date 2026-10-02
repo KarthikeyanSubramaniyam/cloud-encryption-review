@@ -1,0 +1,17 @@
+{
+  "resources": [
+    {
+      "id": "volume-demo",
+      "encrypted": false
+    }
+  ],
+  "keys": [
+    {
+      "id": "key-demo",
+      "state": "Enabled",
+      "rotation_supported": true,
+      "rotation_enabled": false
+    }
+  ]
+}
+
